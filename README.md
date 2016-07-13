@@ -14,16 +14,16 @@
 
 
 ```
-$ brew install node
+`$ brew install node
 ```	
 
 * [Alfred App](https://www.alfredapp.com/)
 * git
-	- `$ git add -A`
-	- `$ git committ -m 'my message'
-	- `$ git status`
-	- `$ git remote add GITHUBURL`
-	- `$ git remote -v`
+	- `$ git add -A
+	- `$ git committ -m 'my message
+	- `$ git status
+	- `$ git remote add GITHUBURL
+	- `$ git remote -v
 * github
 * Unix Commands in the terminal
 	- mkdir

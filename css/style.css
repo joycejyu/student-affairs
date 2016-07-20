@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500);
+
+body {
+  background-color: purple;
+
+}
+
+.container {
+  border: 1px solid #000000;
+  width: 960px;
+  background-color: #ffffff;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+h1 {
+  font-family: 'Montserrat', Arial, serif;
+  font-weight: 700; }
+
+  /*navbar*/
+
+li {
+  list-style: none;
+  float: left;
+  padding-right: 15px;
+}
+
+.main-content {
+  clear: left;
+  padding-top: 15px;
+}

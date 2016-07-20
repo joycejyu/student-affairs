@@ -1,0 +1,19 @@
+{
+  "name": "student-affairs",
+  "version": "1.0.0",
+  "description": "## Our Project * Wireframes * Adobe Kuler * Trello * Gantt Chart * Site Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joycejyu/student-affairs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joycejyu/student-affairs/issues"
+  },
+  "homepage": "https://github.com/joycejyu/student-affairs#readme"
+}
